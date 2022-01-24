@@ -1,0 +1,43 @@
+-version02: nextjs / react / workbox pwa / css @media
+
+***************** LEFT OFF
+*****************
+-create two or more routes
+	--- just created sidepage.js & index.js (home page) will be calculator page
+
+***************** SIDE NOTES
+*****************
+
+***************** DONE
+*****************
+-create root layout (header & footer)
+
+-css @media
+	- <620px / >620px / >960px / >1200px
+
+***************** TODO
+*****************
+-create two or more routes
+	-one for calculator & other for anything else
+	-create error page
+
+-create infrastructure of calculator with some css
+	-using react components
+
+-get + = reset logic working
+
+
+-create PWA (workbox)
+
+
+***************** COME BACK TO
+*****************
+
+
+
+
+
+
+***************** PLAYGROUND
+*****************
+

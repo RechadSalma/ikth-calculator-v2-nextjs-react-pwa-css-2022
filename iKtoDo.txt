@@ -2,8 +2,10 @@
 
 ***************** LEFT OFF
 *****************
--create two or more routes
-	--- just created sidepage.js & index.js (home page) will be calculator page
+-+ = reset logic working
+	- CalculatorScreen component, trying to figure out the logic
+		- working number/math symbols coming through as props
+		- perhaps do pseudo first before you write any actual code
 
 ***************** SIDE NOTES
 *****************
@@ -15,16 +17,24 @@
 -css @media
 	- <620px / >620px / >960px / >1200px
 
-***************** TODO
-*****************
 -create two or more routes
 	-one for calculator & other for anything else
 	-create error page
 
 -create infrastructure of calculator with some css
 	-using react components
+	- 
+formulaS
+resultS
+c c d +
+7 8 9 -
+4 5 6 *
+1 2 3 /
+. 0 = =
 
--get + = reset logic working
+***************** TODO
+*****************
+-+ = reset logic working
 
 
 -create PWA (workbox)
@@ -34,10 +44,7 @@
 *****************
 
 
-
-
-
-
 ***************** PLAYGROUND
 *****************
+
 

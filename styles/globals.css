@@ -19,11 +19,26 @@ a {
 footer {
   border: blue 2px solid;
 }
+.calPage1 {
+  display: flex;
+  justify-content: space-around;
+}
+#calculatorComponent {
+  border: darkseagreen 4px solid;
+  background-color: cornflowerblue;
+  width: 100%;
+  /* display: flex; */
+  /* justify-content: center; */
+}
 
 @media screen and (min-width: 620px) {
   .side {
     color: pink;
     font-size: 3rem;
+  }
+  #calculatorComponent {
+    background-color: cornsilk;
+    width: 60%;
   }
 }
 
@@ -32,11 +47,19 @@ footer {
     color: purple;
     font-size: 4rem;
   }
+  #calculatorComponent {
+    background-color: cyan;
+    width: 50%;
+  }
 }
 
 @media screen and (min-width: 1200px) {
   .side {
     color: gray;
     font-size: 5rem;
+  }
+  #calculatorComponent {
+    background-color: darkorange;
+    width: 40%;
   }
 }

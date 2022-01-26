@@ -1,5 +1,5 @@
 import styles from "../styles/CalculatorPage.module.css";
-import { useEffect, useState, useRef } from "react";
+import { useState, useRef } from "react";
 
 export default function CalculatorScreen(props) {
     const calculatorScreenRef = useRef();
@@ -9,9 +9,22 @@ export default function CalculatorScreen(props) {
     const [formula, setFormula] = useState(0);
     const clickedButton = props.clickedButton;
 
-    useEffect(() => {
-        console.log(clickedButton);
-    }, [clickedButton]);
+    console.log(clickedButton);
+
+    // result
+    // previousNumber
+    // currentNumber
+    // currentMathSign
+    // formulaScreen
+
+    // IF clickedButton is a number OR a minus sign OR a dot THEN
+    //  IF
+    //  END IF
+    // ELSE IF clickedButton is a math sign AND previousNumber NOT null THEN
+    // ELSE IF clickedButton is a equal sign THEN
+    // ELSE IF clickedButton is a d (delete button) THEN
+    // ELSE IF clickedButton is a c (clear button) THEN
+    // END IF
 
     return (
         <div className={styles.screen} ref={calculatorScreenRef}>

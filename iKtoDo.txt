@@ -9,6 +9,7 @@
 
 ***************** SIDE NOTES
 *****************
+iK I DECIDED TO LEAVE IT AS IT WAS TAKING TO LONG & WANTED TO MOVE ON
 
 ***************** DONE
 *****************
@@ -38,7 +39,7 @@ c c d +
 
 
 -create PWA (workbox)
-
+	- did not do because I used next-pwa module & still not working. However I do think I could get it to work with workbox if I put in more time & effort
 
 ***************** COME BACK TO
 *****************
@@ -46,5 +47,32 @@ c c d +
 
 ***************** PLAYGROUND
 *****************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
